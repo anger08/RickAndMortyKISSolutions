@@ -12,7 +12,7 @@ An iOS application built with SwiftUI that displays characters from the Rick and
 2. **Setup:**
    ```bash
    # Clone the repository
-   git clone <repository-url>
+   git clone <(https://github.com/anger08/RickAndMortyKISSolutions/tree/develop)>
    cd RickyMortyApp
    
    # Open the project
